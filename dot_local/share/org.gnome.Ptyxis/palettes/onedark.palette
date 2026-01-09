@@ -1,0 +1,42 @@
+# Color0=#282c34
+# Color8=#252931
+[Palette]
+Name=Atom One Dark
+Foreground=#abb2bf
+Background=#282c34
+Cursor=#abb2bf
+# Color0=#1d2025
+# Color1=#e06c75
+# Color2=#98c379
+# Color3=#e5c07b
+# Color4=#61afef
+# Color5=#c678dd
+# Color6=#56b6c2
+# Color7=#abb2bf
+# 
+# Color8=#5c6370
+# Color9=#be5046
+# Color10=#7a9f60
+# Color11=#d19a66
+# Color12=#3b84c0
+# Color13=#9a52af
+# Color14=#3c909b
+# Color15=#828997
+
+Color0=#1d2025
+Color1=#be5046
+Color2=#7a9f60
+Color3=#d19a66
+Color4=#3b84c0
+Color5=#9a52af
+Color6=#3c909b
+Color7=#828997
+Color8=#5c6370
+Color9=#e06c75
+Color10=#98c379
+Color11=#e5c07b
+Color12=#61afef
+Color13=#c678dd
+Color14=#56b6c2
+Color15=#abb2bf
+
